@@ -1,0 +1,12 @@
+{
+    "description": "Equiverse is an applicant-first hiring platform",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Equiverse",
+            "email": "equiverse.ml@gmail.com"
+        }
+    ],
+    "require": {}
+}
